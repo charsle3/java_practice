@@ -16,8 +16,8 @@ Program was written in Java, importing the Scanner, File, FileWriter, TreeMap, H
 
 # Useful Websites
 
-- [Web Site Name](https://www.w3schools.com/java/default.asp)
-- [Web Site Name](https://www.youtube.com/)
+- [W3 Schools](https://www.w3schools.com/java/default.asp)
+- [Youtube](https://www.youtube.com/)
 
 # Future Work
 
