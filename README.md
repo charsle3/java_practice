@@ -21,8 +21,6 @@ Program was written in Java, importing the Scanner, File, FileWriter, TreeMap, H
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
 - Item 1 - Add variety to gameplay
 - Item 2 - Add GUI
 - Item 3 - Improve score tracking
